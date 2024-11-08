@@ -1,0 +1,7 @@
+numpy==1.26.1
+matplotlib==3.9.2
+coloredlogs==15.0.1
+hyperopt==0.2.7
+tsplib95==0.7.1
+pandas==2.1.2
+nnumba==0.60.0
